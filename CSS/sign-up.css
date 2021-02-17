@@ -1,0 +1,33 @@
+.container {
+    max-width: 1300px;
+}
+
+.h2 {
+    color: #bf1e2e;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.lead {
+    color: #000;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.get {
+    color: #2b3991;
+}
+
+.select {
+    color: #2b3991;
+}
+
+.custom-control {
+    font-size: larger;
+}
+
+.h5 {
+    color: #bf1e2e;
+}
+
+.lh-condensed {
+    line-height: 1.25;
+}
